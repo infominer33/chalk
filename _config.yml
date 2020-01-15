@@ -3,7 +3,8 @@
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
-url: https://infominer33.github.io/chalk/
+url: https://infominer33.github.io
+baseurl: /chalk/
 
 
 # Optional settings
